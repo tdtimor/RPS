@@ -16,7 +16,7 @@ Click an icon to make your move, the bot will pick a random move, and the winner
 ---
 
 ## Demo 🎥
-![Game Demo](pic/screenshot.png)  
+![Game Demo](img/screenshot.png)  
 *(Replace with your screenshot of the game)*
 
 ---
